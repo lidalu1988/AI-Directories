@@ -251,6 +251,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Woi AI** | [woy.ai](https://woy.ai) |
 | **Yet Another AI Tool Directory** | [yaatd.com](https://yaatd.com) |
 | **Zen99** | [zen99.co](https://zen99.co) |
+| **LuAI Tools]** | [luaitools.com](https://luaitools.com)|
 
 ## Why this repo is useful
 
